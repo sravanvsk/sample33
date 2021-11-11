@@ -1,0 +1,16 @@
+D:\practice\sample33\bin\Debug\net5.0\sample33.exe
+D:\practice\sample33\bin\Debug\net5.0\sample33.deps.json
+D:\practice\sample33\bin\Debug\net5.0\sample33.runtimeconfig.json
+D:\practice\sample33\bin\Debug\net5.0\sample33.runtimeconfig.dev.json
+D:\practice\sample33\bin\Debug\net5.0\sample33.dll
+D:\practice\sample33\bin\Debug\net5.0\ref\sample33.dll
+D:\practice\sample33\bin\Debug\net5.0\sample33.pdb
+D:\practice\sample33\obj\Debug\net5.0\sample33.csproj.AssemblyReference.cache
+D:\practice\sample33\obj\Debug\net5.0\sample33.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\sample33\obj\Debug\net5.0\sample33.AssemblyInfoInputs.cache
+D:\practice\sample33\obj\Debug\net5.0\sample33.AssemblyInfo.cs
+D:\practice\sample33\obj\Debug\net5.0\sample33.csproj.CoreCompileInputs.cache
+D:\practice\sample33\obj\Debug\net5.0\sample33.dll
+D:\practice\sample33\obj\Debug\net5.0\ref\sample33.dll
+D:\practice\sample33\obj\Debug\net5.0\sample33.pdb
+D:\practice\sample33\obj\Debug\net5.0\sample33.genruntimeconfig.cache
